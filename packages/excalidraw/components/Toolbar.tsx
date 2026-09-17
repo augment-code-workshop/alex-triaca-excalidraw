@@ -276,6 +276,7 @@ export const Toolbar = ({
         ) : (
           <SelectionToolButton {...toolProps} />
         )}
+        {/* Group the non-drawing tools before the shape tools. */}
         <EraserToolButton {...toolProps} />
         <RectangleToolButton {...toolProps} />
         <DiamondToolButton {...toolProps} />
