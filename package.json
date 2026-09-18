@@ -107,7 +107,6 @@
     "@babel/runtime": "7.29.7",
     "@protobufjs/utf8": "1.1.2",
     "dompurify": "3.4.15",
-    "esbuild": "0.25.12",
     "fflate": "0.8.3",
     "follow-redirects": "1.16.0",
     "mermaid": "11.17.2",
